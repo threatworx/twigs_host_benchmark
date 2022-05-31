@@ -16,7 +16,7 @@ twigs_host_benchmark
 TWIGS Host Benchmark
 
 
-* Free software: GNU General Public License v3
+* Free software: GNU General Public License v3.
 * Documentation: https://twigs-host-benchmark.readthedocs.io.
 
 
